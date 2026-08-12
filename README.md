@@ -3,8 +3,8 @@
 Every viewer's first recorded message in **hekimae**'s Twitch chat,
 2016 to 2026.
 
-**15,034 chatters. 1,101 streams. 159 games.**
-Found by reading 3,198,894 chat messages.
+**15,057 chatters. 1,105 streams. 218 games.**
+Found by reading 3,214,572 chat messages.
 
 ## What this is
 
@@ -34,6 +34,28 @@ locally.
 - Press **/** to jump to the search box, **Escape** to clear it.
 - Filter by year or by game, and every stream heading is a permanent link.
 
+## How much of the chat is here
+
+This archive holds chat from **1,032 of the 1,935 days** the channel has streamed since November 2016, about **47%** of the hours broadcast. 903 streaming days have no chat here at all.
+
+A person missing from the timeline is not evidence they were never here.
+Coverage is thinnest in the early years, so someone who arrived then may
+have joined on a stream the archive never had. 44 streams on the timeline fall on days this outside record has no listing for, so the comparison above cannot count them either way.
+
+| Year | Days with chat | Days streamed | Share |
+|---|---|---|---|
+| 2016 | 0 | 18 | 0% |
+| 2017 | 1 | 182 | 1% |
+| 2018 | 5 | 238 | 2% |
+| 2019 | 9 | 192 | 5% |
+| 2020 | 56 | 202 | 28% |
+| 2021 | 105 | 191 | 55% |
+| 2022 | 165 | 203 | 81% |
+| 2023 | 198 | 202 | 98% |
+| 2024 | 194 | 198 | 98% |
+| 2025 | 182 | 192 | 95% |
+| 2026 | 117 | 117 | 100% |
+
 ## Notes
 
 - Timestamps are positions in the VOD, so `[0:42:15]` is 42 minutes into that
@@ -42,7 +64,7 @@ locally.
   Twitch name, searching either one will still find them.
 - The early years are thin, so some long-time regulars turn up later here than
   they really arrived.
-- 2,611 emote images are stored alongside the page, so it keeps rendering
+- 2,612 emote images are stored alongside the page, so it keeps rendering
   even if Twitch retires an emote. A few could not be recovered and appear as
   plain text.
 - Chat bots are left out. Their first message is command output, not a person
@@ -56,5 +78,5 @@ locally.
 | `index.html` | The timeline, with the typeface built in |
 | `assets/emotes/` | Emote images used in the messages |
 
-Built 11 August 2026. This is a read-only snapshot of hekimae's chat and
+Built 12 August 2026. This is a read-only snapshot of hekimae's chat and
 does not update on its own.
